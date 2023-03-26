@@ -36,7 +36,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "tsc index.ts && node index.js"
+    "dev": "tsc ejemplos.ts && node ejemplos.js"
   },
   "eslintConfig": {
     "extends": [
